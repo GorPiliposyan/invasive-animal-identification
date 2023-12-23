@@ -30,7 +30,7 @@ Provide instructions here on how to install and set up the project for use.
 
 ## Usage
 
-The project offers a web application that serves as a user-friendly interface for public use. Provide guidance here on how users can access and utilize the application for species identification.
+The project offers a [web application](https://terrapin-species-classifier.streamlit.app/) that serves as a user-friendly interface for public use. Provide guidance here on how users can access and utilize the application for species identification.
 
 <!--
 ## Contributing
