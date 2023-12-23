@@ -9,20 +9,23 @@ Installation
 Usage
 Contributing
 License
-Introduction
+
+## Introduction
 The objective of this project is to create a computer vision solution for identifying invasive terrapin and turtle species. The YOLOv5-based model encompasses 17 species, leveraging object detection techniques with bounding boxes.
 
 ## Features
 Species Identification: Detects and identifies 17 invasive terrapin and turtle species.
 Object Detection: Utilizes bounding boxes for accurate identification within images.
-Installation
+
+## Installation
 Provide instructions here on how to install and set up the project for use.
 
 ## Usage
 The project offers a web application that serves as a user-friendly interface for public use. Provide guidance here on how users can access and utilize the application for species identification.
 
-## Contributing
+<!-- ## Contributing
 Welcome contributions! Guidelines for reporting bugs, suggesting enhancements, or submitting pull requests can be found here.
+-->
 
 ## License
 This model is available for educational purposes. Users are encouraged to cite this repository if the model is utilized elsewhere.
