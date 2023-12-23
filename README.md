@@ -1,6 +1,6 @@
 # Invasive Animal Identification Project
 
-![Project Banner](link_to_your_banner_image)
+![Project Banner](https://github.com/GorPiliposyan/invasive-animals/blob/main/banner_img.png)
 
 This project focuses on identifying invasive animal species, specifically terrapins and turtles. The computer vision model, developed using YOLOv5, detects 17 distinct species utilizing object detection with bounding boxes.
 
