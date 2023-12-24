@@ -23,7 +23,7 @@ The objective of this project is to create a computer vision solution for identi
 - **Species Identification**: Detects and identifies 17 invasive terrapin and turtle species.
 - **Object Detection**: Utilizes bounding boxes for accurate identification within images.
 
-## Currently recognised species
+## Recognised species
 
 The model is currently trained to identify ***17 species of terrapins and turtles***, some of which are considered native and others invasive. The full list of invasive species in Engand and Wales can be found [here](https://www.gov.uk/guidance/invasive-non-native-alien-animal-species-rules-in-england-and-wales). The full list of the 17 species addressed in this project is available below.
 
