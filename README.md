@@ -25,7 +25,7 @@ The objective of this project is to create a computer vision solution for identi
 
 ## Recognised species
 
-The model is currently trained to identify ***17 species of terrapins and turtles***, some of which are considered native and others invasive. The full list of invasive species in Engand and Wales can be found [here](https://www.gov.uk/guidance/invasive-non-native-alien-animal-species-rules-in-england-and-wales). The full list of the 17 species addressed in this project is available below.
+The model is currently trained to identify ***17 species of terrapins and turtles***, some of which are considered native and others invasive. The full list of invasive species in Engand and Wales can be found [here](https://www.gov.uk/guidance/invasive-non-native-alien-animal-species-rules-in-england-and-wales). The full list of the 17 species addressed in this project is available in the drop-down menu below.
 
 <details>
   <summary>List of Turtle and Terrapin Species</summary>
