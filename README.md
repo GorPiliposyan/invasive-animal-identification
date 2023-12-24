@@ -16,7 +16,9 @@ This project aims to determine whether an animal captured in an image is classif
 
 ## Introduction
 
-The objective of this project is to create a computer vision solution for identifying invasive terrapin and turtle species. The YOLOv5-based model encompasses 17 species, leveraging object detection techniques with bounding boxes.
+The objective of the Invasive Animal Identification Project is to create a computer vision solution that identifies terrapin and turtle species, thus differentiating invasive ones from native ones. Utilizing a YOLOv5-based model capable of detecting 17 distinct species through object detection and recognition techniques with bounding boxes, the project aids individuals in determining whether their pet or wild-caught turtle is native before releasing it into the wild. This proactive approach safeguards native wildlife and the broader ecosystem. The project invites contributions and aims to raise awareness about invasive species management, specifically focusing on England and Wales.
+
+
 
 ## Features
 
