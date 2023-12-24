@@ -56,11 +56,11 @@ The model is currently trained to identify ***17 species of terrapins and turtle
 
 ## Usage
 
-The project offers a [web application](https://terrapin-species-classifier.streamlit.app/) that serves as a user-friendly interface for public use. Provide guidance here on how users can access and utilize the application for species identification.
+The project utilizes Streamlit to create a [web application](https://terrapin-species-classifier.streamlit.app/) that serves as a user-friendly interface accessible to the public. To utilize the website, users simply upload an image and activate the 'Make Prediction' button. The model undertakes the detection process and subsequently presents a comprehensive list of identified animals within the image. Additionally, users have the option to export the results in a CSV file format for further analysis or record-keeping purposes.
 
 ## License
 
-This model is available for educational purposes. Users are encouraged to cite this repository if the model is utilized elsewhere.
+This model is made available solely for educational purposes and is not intended for commercial use. Users are kindly requested to acknowledge and cite this repository if the model is employed in external projects. Additionally, your support by starring this repository is greatly appreciated.
 
 <!--
 ## Installation
