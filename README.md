@@ -8,6 +8,7 @@ This project aims to determine whether an animal captured in an image is classif
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Currently recognised species](#currentlyrecognisedspecies)
 - [Usage](#usage)
 - [License](#license)
 <!-- - [Installation](#installation)-->
@@ -22,7 +23,7 @@ The objective of this project is to create a computer vision solution for identi
 - **Species Identification**: Detects and identifies 17 invasive terrapin and turtle species.
 - **Object Detection**: Utilizes bounding boxes for accurate identification within images.
 
-## Recognised species
+## Currently recognised species
 
 The model is currently trained to identify 17 species of terrapins and turtles. The full list is available below.
 
