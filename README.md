@@ -1,4 +1,4 @@
-# Invasive Animal Identification Project
+# Invasive Terrapins Identification Project
 
 ![Project Banner](https://github.com/GorPiliposyan/invasive-animals/blob/main/banner_img.png)
 
@@ -21,6 +21,34 @@ The objective of this project is to create a computer vision solution for identi
 
 - **Species Identification**: Detects and identifies 17 invasive terrapin and turtle species.
 - **Object Detection**: Utilizes bounding boxes for accurate identification within images.
+
+## Recognised species
+
+The model is currently trained to identify 17 species of terrapins and turtles. The full list is available below.
+
+<details>
+  <summary>List of Turtle and Terrapin Species</summary>
+  
+  - Alligator snapping turtle
+  - Common musk turtle
+  - Cumberland slider terrapin
+  - European pond turtle
+  - False map turtle
+  - Florida red-bellied cooter
+  - Map turtle
+  - Mississippi map turtle
+  - Mud turtle
+  - Peninsula cooter
+  - Razorback musk turtle
+  - Red-eared slider terrapin
+  - River cooter
+  - Snake necked turtle
+  - Softshell turtle
+  - Spotted turtle
+  - Yellow-bellied slider terrapin
+  
+</details>
+
 
 
 ## Usage
