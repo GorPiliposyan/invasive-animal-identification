@@ -8,7 +8,7 @@ This project aims to determine whether an animal captured in an image is classif
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Currently recognised species](#currentlyrecognisedspecies)
+- [Recognised species](#Recognised-species)
 - [Usage](#usage)
 - [License](#license)
 <!-- - [Installation](#installation)-->
@@ -25,14 +25,14 @@ The objective of this project is to create a computer vision solution for identi
 
 ## Currently recognised species
 
-The model is currently trained to identify 17 species of terrapins and turtles. The full list is available below.
+The model is currently trained to identify ***17 species of terrapins and turtles***, some of wich are considered native and others invasive. The full list of invasive species in Engand and Wales can be found [here](https://www.gov.uk/guidance/invasive-non-native-alien-animal-species-rules-in-england-and-wales). The full list of the 17 species addressed in this project is available below, where the invasive species have been highlighted in red.
 
 <details>
   <summary>List of Turtle and Terrapin Species</summary>
   
   - Alligator snapping turtle
   - Common musk turtle
-  - Cumberland slider terrapin
+  - <font color="red">Cumberland slider terrapin</font>
   - European pond turtle
   - False map turtle
   - Florida red-bellied cooter
@@ -41,12 +41,12 @@ The model is currently trained to identify 17 species of terrapins and turtles. 
   - Mud turtle
   - Peninsula cooter
   - Razorback musk turtle
-  - Red-eared slider terrapin
+  - <font color="red">Red-eared slider terrapin</font>
   - River cooter
   - Snake necked turtle
   - Softshell turtle
   - Spotted turtle
-  - Yellow-bellied slider terrapin
+  - <font color="red">Yellow-bellied slider terrapin</font>
   
 </details>
 
