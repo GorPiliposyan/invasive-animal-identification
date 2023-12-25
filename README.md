@@ -22,7 +22,7 @@ The objective of the Invasive Animal Identification Project is to create a compu
 
 ## Features
 
-- **Species Identification**: Detects and identifies 17 invasive terrapin and turtle species.
+- **Species Identification**: Detects and identifies 17 terrapin and turtle species.
 - **Object Detection**: Utilizes bounding boxes for accurate identification within images.
 
 ## Recognised species
