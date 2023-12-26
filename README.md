@@ -1,4 +1,4 @@
-# Invasive Terrapins Identification Project
+# Invasive Terrapin Identification project
 
 ![Project Banner](https://github.com/GorPiliposyan/invasive-animals/blob/main/banner_img.png)
 
