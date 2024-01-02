@@ -33,7 +33,7 @@ The objective of the Invasive Animal Identification Project is to create a compu
 
 - **Python**
 - **PyTorch**
-- **Ultralytics YOLOv8**
+- **Ultralytics YOLOv5**
 - **OpenCV**
 
 #
