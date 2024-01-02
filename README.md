@@ -7,6 +7,7 @@ This project aims to determine whether an animal captured in an image is classif
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Tech Stack](#Tech-Stack)
 - [Features](#features)
 - [Recognised species](#Recognised-species)
 - [Usage](#usage)
@@ -18,7 +19,24 @@ This project aims to determine whether an animal captured in an image is classif
 
 The objective of the Invasive Animal Identification Project is to create a computer vision solution that identifies terrapin and turtle species, thus differentiating invasive ones from native ones. Utilizing a YOLOv5-based model capable of detecting 17 distinct species through object detection and recognition techniques with bounding boxes, the project aids individuals in determining whether their pet or wild-caught turtle is native before releasing it into the wild. This proactive approach safeguards native wildlife and the broader ecosystem. The project invites contributions and aims to raise awareness about invasive species management, specifically focusing on England and Wales.
 
+---
 
+## Tech Stack
+
+<img align="left" alt="Java" width="30px" style="padding-right:20px;" src="https://github.com/GorPiliposyan/invasive-animal-identification/blob/main/Images/Python-logo-notext.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:20px;" src="https://github.com/GorPiliposyan/invasive-animal-identification/blob/main/Images/PyTorch_logo_icon.svg"/>
+<img align="left" alt="Java" width="100px" style="padding-right:20px;" src="https://github.com/GorPiliposyan/invasive-animal-identification/blob/main/Images/UltralyticsYOLO_full_blue.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:20px;" src="https://github.com/GorPiliposyan/invasive-animal-identification/blob/main/Images/OpenCV_Logo.svg"/>
+<br />
+
+#
+
+- **Python**
+- **PyTorch**
+- **Ultralytics YOLOv8**
+- **OpenCV**
+
+#
 
 ## Features
 
